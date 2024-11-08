@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Eva02</string>
+    <string name="btnregistro">REGISTRO</string>
+    <string name="btnlistado">LISTADO</string>
+    <string name="txtTitulo">INFORMACIÓN</string>
+    <string name="txtsubtitulo">Seleccione Programas que domine:</string>
+    <string name="txtSubtitulo2">Seleccione su color favorito:</string>
+    <string name="valnombres">Nombres</string>
+    <string name="valnombres">Nombres</string>
+    <string name="txtnombres">Nombres</string>
+    <string name="txtnombres">Nombres</string>
+    <string name="txtnombres">Nombres</string>
+    <string name="btnacceder">Acceder</string>
+    <string name="btnAcceder">Acceder</string>
+    <string name="btnAcceder">Acceder</string>
+    <string name="txtapellidos">Apellidos</string>
+    <string name="txtdni">DNI</string>
+    <string name="txtcelular">Celular</string>
+    <string name="txtemail">E-mail</string>
+    <string name="ckbSQL">MS SQL Server</string>
+    <string name="chkvStudio">VStudioCode</string>
+    <string name="cbkandroid">Android Studio</string>
+    <string name="chkotro">Otro</string>
+    <string name="txtotro">Ingrese otro programa</string>
+    <string name="rbazul">Azul</string>
+    <string name="rbrojo">Rojo</string>
+    <string name="rbverde">Verde</string>
+    <string name="rbotro">Otro</string>
+
+
+    <string name="vallistado">LISTA PERSONAS</string>
+    <string name="valtitulolistado">LISTA DE PERSONAS</string>
+    <string name="valerrornomape">Ingrese sus nombres y apellidos.</string>
+    <string name="valerrorprograma">Seleccione una opcion.</string>
+    <string name="valerrorcolor">Seleccione al menos un color.</string>
+
+    <string name="mensajeregpersona">Persona registrada correctamente!!!</string>
+
+</resources>
